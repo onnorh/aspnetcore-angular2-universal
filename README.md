@@ -6,7 +6,7 @@
 
 ### Harness the power of Angular 2+, ASP.NET Core, now with SEO !
 
-Angular SEO in action:
+Angular SEO in action (take 1):
 
 <p align="center">
   <img src="./docs/angular2-seo.png" alt="ASP.NET Core Angular2 SEO" title="ASP.NET Core Angular2 SEO">
